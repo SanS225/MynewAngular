@@ -1,2 +1,4 @@
 # MynewAngular
-intellect informatics pvt ltd
+intellect informatics pvt ltd.
+
+Location on Map With PrimeNg
