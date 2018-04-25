@@ -1,2 +1,2 @@
 # MynewAngular
-intellect
+intellect informatics pvt ltd
